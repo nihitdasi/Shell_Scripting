@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Set your desired AWS region
-AWS_REGION="us-east-1"  # Change this to your desired region
+# AWS region
+AWS_REGION="us-east-1"
 
 # Function to calculate cost per month
 calculate_cost() {
